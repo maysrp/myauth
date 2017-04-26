@@ -1,13 +1,13 @@
 # myauth
-index.php
-POST
+### index.php
+#### POST
 
 username
 password
 code
 
-join.php
-POST
+### join.php
+#### POST
 username
 password
 code
